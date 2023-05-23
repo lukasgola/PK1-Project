@@ -1,0 +1,8 @@
+Graf jest dwudzielny
+12 3
+6 12
+3 5
+6 5
+6 2
+Grupa A: 2 5 12 
+Grupa B: 3 6 
